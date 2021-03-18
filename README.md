@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radwa-M
 - 👀 I’m interested in being a web developer.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on starting my career as a freelancer.
+- 💞️ I’m looking to collaborate on sharing knowledge.
 - 📫 How to reach me ...
 
 <!---
